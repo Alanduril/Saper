@@ -1,0 +1,15 @@
+D:\Repo\Saper\Saper1\Saper1\bin\Debug\net6.0\Saper1.exe
+D:\Repo\Saper\Saper1\Saper1\bin\Debug\net6.0\Saper1.deps.json
+D:\Repo\Saper\Saper1\Saper1\bin\Debug\net6.0\Saper1.runtimeconfig.json
+D:\Repo\Saper\Saper1\Saper1\bin\Debug\net6.0\Saper1.dll
+D:\Repo\Saper\Saper1\Saper1\bin\Debug\net6.0\Saper1.pdb
+D:\Repo\Saper\Saper1\Saper1\obj\Debug\net6.0\Saper1.csproj.AssemblyReference.cache
+D:\Repo\Saper\Saper1\Saper1\obj\Debug\net6.0\Saper1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repo\Saper\Saper1\Saper1\obj\Debug\net6.0\Saper1.AssemblyInfoInputs.cache
+D:\Repo\Saper\Saper1\Saper1\obj\Debug\net6.0\Saper1.AssemblyInfo.cs
+D:\Repo\Saper\Saper1\Saper1\obj\Debug\net6.0\Saper1.csproj.CoreCompileInputs.cache
+D:\Repo\Saper\Saper1\Saper1\obj\Debug\net6.0\Saper1.dll
+D:\Repo\Saper\Saper1\Saper1\obj\Debug\net6.0\refint\Saper1.dll
+D:\Repo\Saper\Saper1\Saper1\obj\Debug\net6.0\Saper1.pdb
+D:\Repo\Saper\Saper1\Saper1\obj\Debug\net6.0\Saper1.genruntimeconfig.cache
+D:\Repo\Saper\Saper1\Saper1\obj\Debug\net6.0\ref\Saper1.dll
